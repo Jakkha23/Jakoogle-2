@@ -121,49 +121,61 @@ ul a:hover {
 color: gray;
 }
 .videos {
-    border: 2px solid black;
+    border: 2px solid orangered;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
+}
+.videos-1 {
+    color: orangered;
 }
 .spooky {
-    border: 2px solid black;
+    border: 2px solid orangered;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
+}
+.spooky-1 {
+    color: orangered;
 }
 .random {
-    border: 2px solid black;
+    border: 2px solid orangered;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
+}
+.random-1 {
+    color: orangered;
 }
 .classic-memes {
-    border: 2px solid black;
+    border: 2px solid orangered;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
 }
+.classic-memes-1 {
+    color: orangered;
+}
 .animations {
-    border: 2px solid black;
+    border: 2px solid orangered;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
 }
 .top-ten {
-    border: 2px solid black;
+    border: 2px solid orangered;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
 }
 .others {
-    border: 2px solid black;
+    border: 2px solid orangered;
     display: inline-block;
     padding: 10px;
     border-radius: 10px;
@@ -180,4 +192,10 @@ color: gray;
 .dig-projects-3 {
     list-style: none;
     display: inline-block;
+}
+.a1 {
+    color: orangered;
+}
+.h1-1 {
+    color: orangered;
 }
